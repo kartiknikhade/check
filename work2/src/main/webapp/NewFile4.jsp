@@ -7,7 +7,6 @@
 <title>Insert title here</title>
 </head>
 <body>
-<h1>coming to third file .......</h1>
-<a href="NewFile4.jsp">click4</a>
+<h1 >this is fourth file</h1>
 </body>
 </html>
